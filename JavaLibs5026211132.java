@@ -99,8 +99,8 @@ public class JavaLibs5026211132{
             "Type something here..");
 
         JOptionPane.showMessageDialog(null,
-            "Yaa, sekarang aku paham!\n"+input1+ " sangat suka genre game "+input3+"!, kemudian biasanya kamu bermain selama "+input4+"\nGame favorit kamu itu "+input5+"
-            "Kemudian kamu sering bermain sekitar jam "+input6+", biasanya juga bermain bersama "+input7+".\nTernyata alasan kamu suka "+input5+" adalah karena game itu"
+            "Yaa, sekarang aku paham!\n"+input1+ " sangat suka genre game "+input3+"!, kemudian biasanya kamu bermain game selama "+input4+"\nGame favorit kamu ternyata "+input5+
+            " Kemudian kamu mulai bermain sekitar jam "+input6+"!, dan biasanya juga bersama "+input7+".\nTernyata alasan kamu suka "+input5+" adalah karena game tersebut "
             +input8+". Kemudian kamu menilai "+input5+" dengan nilai sebesar "+input9+"! dengan alasan "+input10+".\nYaa! senang berkenalan denganmu!\nSampai Jumpa Lagi!!!"
             );
     }    
